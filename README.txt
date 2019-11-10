@@ -5,4 +5,12 @@
 
 新建分支wangwu
 
+
 master来修改文件，wngwu在这之前也修改了文件
+
+lisi来修改文件
+
+测试冲突：lisi先提交 --1
+
+wangwu有修改了文件
+
